@@ -1,15 +1,8 @@
-## What is this repo about?
+## Project Overview 
 A machine learning project to predict autism spectrum disorder based on input features. This repository contains data, notebooks, trained models, and supporting scripts for building, evaluating, and deploying the classifier.
 
 ## Repository Structure
-Autism-Detection/
-│
-├── AutismDetection.ipynb ─ Main Jupyter Notebook demonstrating the full pipeline
-├── best_model.pkl ─ Serialized trained model
-├── encoders.pkl ─ Encoders / preprocessing objects (e.g. LabelEncoder, OneHot)
-├── train.csv ─ Training dataset
-├── test.csv ─ Test / hold-out dataset
-└── .ipynb_checkpoints/ ─ Jupyter auto-save checkpoint files
+<pre> ``` Autism-Detection/├── train.csv │ └── test.csv ├── AutismDetection.ipynb└── best_model.pkl ├── requirements.txt └── README.md ``` </pre>
 
 
 ## 🧠 Project Overview

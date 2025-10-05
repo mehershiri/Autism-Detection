@@ -27,7 +27,7 @@ This project aims to develop a machine learning model that can detect autism (or
 ## Prerequisites
 
 - Python 3.7+  
-- Required libraries (you can install via `requirements.txt`)  
+- Required libraries  
   ```text
   numpy
   pandas
@@ -41,12 +41,15 @@ This project aims to develop a machine learning model that can detect autism (or
 # Clone the repo
    git clone https://github.com/mehershiri/Autism-Detection.git
    cd Autism-Detection
+
 # Install dependecies if needed
    pip install -r requirements.txt
+
 # Start Jupyter Lab/ Notebook using the following commands: 
    jupyter notebook
    or
    jupyter lab
+
 # Open and run AutismDetection.ipynb step by step.
    -The notebook loads train.csv and test.csv
    -It preprocesses features, encodes categorical variables

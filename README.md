@@ -36,16 +36,17 @@ This project aims to develop a machine learning model that can detect autism (or
   jupyter
 
 ## Steps to run
-1. Clone the repo
+```bash
+# Clone the repo
    git clone https://github.com/mehershiri/Autism-Detection.git
    cd Autism-Detection
-2. Install dependecies if needed
+# Install dependecies if needed
    pip install -r requirements.txt
-3. Start Jupyter Lab/ Notebook using the following commands: 
+# Start Jupyter Lab/ Notebook using the following commands: 
    jupyter notebook
    or
    jupyter lab
-4. Open and run AutismDetection.ipynb step by step.
+# Open and run AutismDetection.ipynb step by step.
    -The notebook loads train.csv and test.csv
    -It preprocesses features, encodes categorical variables
    -Trains multiple models, chooses the best one

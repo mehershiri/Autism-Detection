@@ -8,7 +8,7 @@ Autism-Detection/
 ├── test.csv
 ├── AutismDetection.ipynb
 ├── best_model.pkl
-├── requirements.txt
+├── encoders.pkl
 └── README.md
 
 

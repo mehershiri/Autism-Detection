@@ -2,7 +2,15 @@
 A machine learning project to predict autism spectrum disorder based on input features. This repository contains data, notebooks, trained models, and supporting scripts for building, evaluating, and deploying the classifier.
 
 ## Repository Structure
-<pre> ``` Autism-Detection/├── train.csv │ └── test.csv ├── AutismDetection.ipynb└── best_model.pkl ├── requirements.txt └── README.md ``` </pre>
+```bash
+Autism-Detection/
+├── train.csv
+├── test.csv
+├── AutismDetection.ipynb
+├── best_model.pkl
+├── requirements.txt
+└── README.md
+
 
 
 ## 🧠 Project Overview
